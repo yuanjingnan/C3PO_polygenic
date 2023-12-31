@@ -100,7 +100,6 @@ dependencies:
   - libprotobuf=3.19.4
   - librsvg=2.52.5
   - libsodium=1.0.18
-  - libsolv=0.7.19
   - libssh2=1.10.0
   - libtiff=4.3.0
   - libtool=2.4.6
